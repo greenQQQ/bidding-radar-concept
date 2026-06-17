@@ -2,6 +2,7 @@
 
 > 一套用 AI 打造的「政府標案 ＋ 補助」雷達：輸入關鍵字或公司條件，幫你挑出適合的標案與補助。
 > 本 repo 分享**概念、設計與資料來源**，方便你用 AI 自己做一套（不含可執行程式碼）。
+> 🧋 概念與設計**完全免費、開放取用**；喜歡的話，歡迎 [**請我喝杯珍奶 🧋**](https://greenqqq.bobaboba.me)~
 
 ---
 
@@ -123,3 +124,7 @@ watchlist ＋ 截止日提醒。
 [![Give me a Boba](https://img.shields.io/badge/🧋_Give_me_a_Boba-C07C62?style=for-the-badge)](https://greenqqq.bobaboba.me)
 
 > 或幫忙按個 ⭐ Star、開 issue 交流、分享給朋友，都是很大的支持。
+
+## 授權 License
+
+[MIT License](LICENSE) — 概念、設計與文件歡迎自由使用、修改、散布。
