@@ -115,3 +115,11 @@ watchlist ＋ 截止日提醒。
 ## 交流
 
 想自己做、卡住、或有想法 → 開 issue 或私訊我，互相交流 AI 使用技巧（純交流、不收費）。
+
+## 贊助 Support
+
+這份概念與設計**完全免費、開放取用**，維護與整理全憑興趣 🙂 覺得有幫助、想請我喝杯珍奶的話，非常歡迎（純自願，不影響任何交流）：
+
+[![Give me a Boba](https://img.shields.io/badge/🧋_Give_me_a_Boba-C07C62?style=for-the-badge)](https://greenqqq.bobaboba.me)
+
+> 或幫忙按個 ⭐ Star、開 issue 交流、分享給朋友，都是很大的支持。
