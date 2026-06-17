@@ -70,7 +70,7 @@ watchlist ＋ 截止日提醒。
 |---|---|
 | 找標案 | g0v 標案 API（[pcc.g0v.ronny.tw](https://pcc.g0v.ronny.tw/)）|
 | 決標行情／分析 | 政府電子採購網「決標開放資料」（OpenData）|
-| 找補助（清單）| **開放資料**：文化部[獎補助-報名資訊](https://opendata.culture.tw/frontsite/openData/detail?datasetId=351)（現正受理清單，最乾淨）；客委會[開放資料 API](https://data.hakka.gov.tw/)（有 API，但補助資料多為名單/概況）；新創圓夢網（[startup.sme.gov.tw](https://startup.sme.gov.tw/)）**無讀取 API**，需爬「政府資源總覽」頁（robots 允許）<br>※ 多數機關開放的補助資料是「名單/統計」，真正「現正受理」的索引型，目前以文化部 351 最完整 |
+| 找補助（清單）| 文化部[獎補助-報名資訊](https://opendata.culture.tw/frontsite/openData/detail?datasetId=351)（現正受理清單，最乾淨）<br>※ 這是目前唯一較乾淨的官方「可申請補助索引」開放資料；其他機關的補助開放資料多為名單/統計，可申請的補助請至下方「官方查詢入口」逐站查詢 |
 | 找補助（資格詳情）| **尚未找到開放資料索引** → 需自行至各機關官方頁查詢（見下方清單）|
 
 > 接公開資料時請禮貌限速、標註來源、本機快取。
