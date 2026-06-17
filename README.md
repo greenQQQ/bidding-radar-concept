@@ -70,10 +70,25 @@ watchlist ＋ 截止日提醒。
 |---|---|
 | 找標案 | g0v 標案 API（[pcc.g0v.ronny.tw](https://pcc.g0v.ronny.tw/)）|
 | 決標行情／分析 | 政府電子採購網「決標開放資料」（OpenData）|
-| 找補助（清單）| 文化部開放資料（[opendata.culture.tw](https://opendata.culture.tw/frontsite/openData/detail?datasetId=351)）、新創圓夢網（[startup.sme.gov.tw](https://startup.sme.gov.tw/)）|
-| 找補助（資格詳情）| **未找到開放資料** → 連結至官方頁，由使用者自行查看 |
+| 找補助（清單）| 文化部開放資料（[opendata.culture.tw](https://opendata.culture.tw/frontsite/openData/detail?datasetId=351)）、客家委員會（[hakka.gov.tw](https://www.hakka.gov.tw/)）、新創圓夢網（[startup.sme.gov.tw](https://startup.sme.gov.tw/)）|
+| 找補助（資格詳情）| **尚未找到開放資料索引** → 需自行至各機關官方頁查詢（見下方清單）|
 
 > 接公開資料時請禮貌限速、標註來源、本機快取。
+
+### 補助資格詳情 — 官方查詢入口
+
+「對象資格、申請方式、截止日」目前沒有開放資料可機讀，請至各主管機關官方頁查詢：
+
+- 文化部獎補助資訊網 — [grants.moc.gov.tw](https://grants.moc.gov.tw/)
+- 客家委員會 — [hakka.gov.tw](https://www.hakka.gov.tw/)
+- 經濟部中小及新創企業署「新創圓夢網」 — [startup.sme.gov.tw](https://startup.sme.gov.tw/)
+- 經濟部 SBIR 小型企業創新研發計畫 — [sbir.org.tw](https://www.sbir.org.tw/)
+- 經濟部 補助計畫入口網 — [service.moea.gov.tw](https://service.moea.gov.tw/)
+- 國家科學及技術委員會 計畫徵求 — [nstc.gov.tw](https://www.nstc.gov.tw/)
+- 國發基金 創業天使投資方案 — [angelinvestment.org.tw](https://www.angelinvestment.org.tw/)
+- 原住民族委員會 補助專區 — [cip.gov.tw](https://www.cip.gov.tw/)
+- 勞動部 微型創業鳳凰 — [emps.wda.gov.tw](https://emps.wda.gov.tw/)
+- 各縣市政府（地方型補助）— 各縣市政府／經發局網站
 
 ## Roadmap（想自己做的建議階段）
 
